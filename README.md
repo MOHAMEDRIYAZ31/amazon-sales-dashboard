@@ -19,7 +19,7 @@ This project is an interactive Power BI dashboard that analyzes sales performanc
 - Excel / CSV Dataset
 
 ## 📷 Dashboard Preview
-![Dashboard](your-image-file-name.png)
+![Dashboard](AMAZON SALES DASHBOARD.png)
 
 ## 📊 Key Insights
 - West region generates highest sales
